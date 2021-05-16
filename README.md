@@ -1,8 +1,24 @@
 # Website hosted.
-TO view the website [Click here](https://invictus-frequency-words.herokuapp.com/) 
+To view the website [Click here](https://invictus-frequency-words.herokuapp.com/) 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Libraries and plugins
+     @testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.2"
+    
+# Test cases
+## Test Case 1: When Input integer is 5. 
+#### Screen shot for the same 
 
 ## Available Scripts
 
