@@ -3,7 +3,18 @@ To view the website [Click here](https://invictus-frequency-words.herokuapp.com/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Components 
+### frequency-table.component.js 
+This is used to calculate the frequency of differnts words. I haven't used any pre-defined function for the same. Inside this I have used 
+1) componentDidMount(): is a hook that gets invoked right after a React component has been mounted aka after the first render() lifecycle
+2) Render a renderTable() or renderDataTable(): within an application page. renderTable uses a standard HTML table, while renderDataTable uses the DataTables Javascript library to create an interactive table with more features.
+### navbar.component.js
+To Create a navigation bar using reactJS & styled-component
 
+### query.component.js
+Used to take an Integer input, in context of the inputed number we create the required frequency table.
+
+### 
 ## Libraries and plugins
      @testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
