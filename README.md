@@ -19,6 +19,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Test cases
 ## Test Case 1: When Input integer is 5. 
 #### Screen shot for the same 
+![image](https://user-images.githubusercontent.com/42678955/118397218-a07bea80-b670-11eb-8e60-251664cf512d.png)
+
+## Test Case 2: When Input integer is 1. 
+#### Screen shot for the same 
+![image](https://user-images.githubusercontent.com/42678955/118397317-05374500-b671-11eb-8a78-571691d9686a.png)
+
+## Test Case 2: When Input integer is 10. 
+#### Screen shot for the same 
+![image](https://user-images.githubusercontent.com/42678955/118397353-2304aa00-b671-11eb-92f3-2dd84a33c83e.png)
+
 
 ## Available Scripts
 
