@@ -1,5 +1,7 @@
 # Website hosted.
-To view the website [Click here](https://invictus-frequency-words.herokuapp.com/) 
+I have hosted the setup with help of herokuapp.com the link for the website is  https://invictus-frequency-words.herokuapp.com/  or [simply click here to get redirected at the website.](https://invictus-frequency-words.herokuapp.com/) 
+Here we take integer input and create frequency table with respect to that by click on Create frenquency table button, for every new input we first click on resest button and then enter the new integer value.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
